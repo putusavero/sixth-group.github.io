@@ -241,14 +241,14 @@ header .navigation-aboutus li a:hover{
         position: relative;
         width: 40px;
         height: 40px;
-        background: url(../../gambar/garis-3.png);
+        background: url(../gambar/garis-3.png);
         background-size: 30px;
         background-repeat: no-repeat;
         background-position: center;
         cursor: pointer;
     }
     .menuToggle.active{
-        background: url(../../gambar/silang-1.png);
+        background: url(../gambar/silang-1.png);
         background-size: 30px;
         background-repeat: no-repeat;
         background-position: center;
